@@ -1,0 +1,29 @@
+*{
+    margin: 0; padding: 0; box-sizing: border-box;
+}
+
+body {
+    background-color: darkgrey;
+}
+
+.return {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.swiffy-slider{
+    margin-top: auto;
+    margin-bottom: auto;
+    transform: translate(0,20%);
+}
+
+.slider-container{
+    margin-top: 10px;
+    text-align: center;
+}
+
+.slider-container li img{
+    border-radius: 20px;
+}
+
+
